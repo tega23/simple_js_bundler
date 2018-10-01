@@ -1,0 +1,14 @@
+{
+  "name": "simple_js_bundler",
+  "version": "1.0.0",
+  "description": "A simple js bundler",
+  "main": "bundler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tega Erekata",
+  "license": "ISC",
+  "dependencies": {
+    "babel-traverse": "^6.26.0"
+  }
+}
