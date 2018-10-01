@@ -9,6 +9,8 @@
   "author": "Tega Erekata",
   "license": "ISC",
   "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
     "babel-traverse": "^6.26.0"
   }
 }
